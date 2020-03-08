@@ -1,0 +1,18 @@
+[2020-03-08 22:27:38] [ INFO] Checkpoint loading started...
+[2020-03-08 22:27:38] [ INFO] Checkpoint loading finished!
+[2020-03-08 22:29:22] [ INFO] Started backup of BIOHAZARD REVELATIONS. Title id: 0x000A0000.
+[2020-03-08 22:29:25] [ERROR] Failed to open destination file /3ds/Checkpoint/saves/0x00A00 BIOHAZARD REVELATIONS//000.dat during copy with result 0xC8804478. Skipping...
+[2020-03-08 22:29:25] [ERROR] Failed to open destination file /3ds/Checkpoint/saves/0x00A00 BIOHAZARD REVELATIONS//100.dat during copy with result 0xC8804478. Skipping...
+[2020-03-08 22:29:25] [ INFO] Backup succeeded.
+[2020-03-08 22:29:43] [ INFO] Started backup of BIOHAZARD REVELATIONS. Title id: 0x000A0000.
+[2020-03-08 22:29:48] [ INFO] Backup succeeded.
+[2020-03-08 22:30:47] [ INFO] Started backup of Xenoblade Chronicles 3D. Title id: 0x0F700000.
+[2020-03-08 22:30:50] [ INFO] Backup succeeded.
+[2020-03-08 22:32:09] [ INFO] Started backup of Ocarina of Time 3D. Title id: 0x0008F900.
+[2020-03-08 22:32:12] [ INFO] Backup succeeded.
+[2020-03-08 22:32:40] [ INFO] Started backup of ファイアーエムブレム　覚醒. Title id: 0x00072000.
+[2020-03-08 22:32:43] [ INFO] Backup succeeded.
+[2020-03-08 22:33:47] [ INFO] Started backup of Pokémon Y. Title id: 0x00055E00.
+[2020-03-08 22:33:49] [ INFO] Backup succeeded.
+[2020-03-08 22:34:34] [ INFO] Started backup of 善人シボウデス. Title id: 0x0005DE00.
+[2020-03-08 22:34:39] [ INFO] Backup succeeded.
