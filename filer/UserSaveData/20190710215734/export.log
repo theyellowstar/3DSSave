@@ -1,0 +1,12 @@
+=== File Tree ===
+/
++--specialmode
++--monado03
++--monado02
++--monado01
+
+=== File Copy ===
+CopyFile: save:/specialmode => sdmc:/filer/UserSaveData/20190710215734/000f7000/specialmode (62 Byte)
+CopyFile: save:/monado03 => sdmc:/filer/UserSaveData/20190710215734/000f7000/monado03 (41855 Byte)
+CopyFile: save:/monado02 => sdmc:/filer/UserSaveData/20190710215734/000f7000/monado02 (41850 Byte)
+CopyFile: save:/monado01 => sdmc:/filer/UserSaveData/20190710215734/000f7000/monado01 (25760 Byte)

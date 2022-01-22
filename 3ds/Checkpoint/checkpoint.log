@@ -28,3 +28,12 @@
 [2020-04-15 21:52:26] [ INFO] Checkpoint loading finished!
 [2020-04-15 21:53:00] [ INFO] Started backup of ファイアーエムブレム　覚醒. Title id: 0x00072000.
 [2020-04-15 21:53:03] [ INFO] Backup succeeded.
+[2022-01-22 20:21:14] [ INFO] Checkpoint loading started...
+[2022-01-22 20:21:14] [ INFO] Checkpoint loading finished!
+[2022-01-22 20:22:00] [ INFO] Found JEDEC: 0x0000000000FFFFFF
+[2022-01-22 20:22:00] [ INFO] CardType (While inside maxTries loop): 0000000000000004
+[2022-01-22 20:22:00] [ INFO] JEDEC ID not documented yet!
+[2022-01-22 20:22:00] [ INFO] CardType (after the maxTries loop): 0000000000000001
+[2022-01-22 20:22:00] [ INFO] Type: 2
+[2022-01-22 20:22:44] [ INFO] Started backup of Pokémon Ultra Moon. Title id: 0x001B5100.
+[2022-01-22 20:22:49] [ INFO] Backup succeeded.

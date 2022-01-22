@@ -1,0 +1,8 @@
+=== File Tree ===
+/
++--save00.bin
++--system.dat
+
+=== File Copy ===
+CopyFile: save:/save00.bin => sdmc:/filer/UserSaveData/20290208175341/000008f9/save00.bin (5340 Byte)
+CopyFile: save:/system.dat => sdmc:/filer/UserSaveData/20290208175341/000008f9/system.dat (34 Byte)
