@@ -1,0 +1,16 @@
+=== File Tree ===
+/
++--COLONY0.sav
++--MEMBERS0.sav
++--GAME0.sav
++--ACHIEVE.sav
++--NETWORK.sav
++--ECSV.sav
+
+=== File Copy ===
+CopyFile: save:/COLONY0.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/COLONY0.sav (512 Byte)
+CopyFile: save:/MEMBERS0.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/MEMBERS0.sav (512 Byte)
+CopyFile: save:/GAME0.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/GAME0.sav (54790 Byte)
+CopyFile: save:/ACHIEVE.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/ACHIEVE.sav (10240 Byte)
+CopyFile: save:/NETWORK.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/NETWORK.sav (512 Byte)
+CopyFile: save:/ECSV.sav => sdmc:/filer/UserSaveData/20230723181239/00000db6/ECSV.sav (1024 Byte)
