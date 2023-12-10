@@ -59,3 +59,9 @@
 [2023-09-09 16:19:20] [ INFO] Type: 2
 [2023-09-09 16:19:37] [ INFO] Started backup of METALMAX4. Title id: 0x000AFD00.
 [2023-09-09 16:19:40] [ INFO] Backup succeeded.
+[2023-12-10 21:33:58] [ INFO] Checkpoint loading started...
+[2023-12-10 21:33:59] [ INFO] Checkpoint loading finished!
+[2023-12-10 21:34:13] [ INFO] Started backup of METALMAX4. Title id: 0x000AFD00.
+[2023-12-10 21:34:18] [ INFO] Backup succeeded.
+[2023-12-10 21:34:58] [ INFO] Started backup of METALMAX4. Title id: 0x000AFD00.
+[2023-12-10 21:35:01] [ INFO] Backup succeeded.
